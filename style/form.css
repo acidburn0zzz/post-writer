@@ -1,0 +1,10 @@
+.form-control {
+	border: none;
+	border-radius: 0;
+	width: 100%;
+	font-family: "Serif";
+}
+
+.input-group {
+	width: 100%;
+}
